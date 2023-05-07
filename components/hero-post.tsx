@@ -22,38 +22,37 @@ const HeroPost = ({
   slug,
 }: Props) => {
   return (
-    <section className="bg-gray-100 rounded-lg p-5 mb-4">
+    <section className="bg-gray-200 rounded-lg p-5 mb-4">
       <div className="mb-2 md:mb-4">
         <CoverImage title={title} src={coverImage} slug={slug} />
       </div>
       <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8">
         <div>
-          <h3 className="mb-4 text-4xl lg:text-5xl leading-tight">
+          <h3 className="mb-2 text-4xl lg:text-5xl leading-tight">
             <Link
               as={`/posts/${slug}`}
               href="/posts/[slug]"
-            // className="hover:underline"
             >
               {title}
             </Link>
           </h3>
-          <div className="mb-4 text-lg">
-            <Link
-              as={`/posts/${slug}`}
-              href="/posts/[slug]"
-            // className="hover:underline"
-            >
-              {<DateFormatter dateString={date} />}
-            </Link>
-          </div>
-          <div>
-            <Link
-              as={`/about`}
-              href="/about"
-            // className="hover:underline"
-            >
-              {<Avatar name={author.name} picture={author.picture} />}
-            </Link>
+          <div className="flex flex-row text-lg mb-2">
+            <div className="mt-3">
+              <Link
+                as={`/posts/${slug}`}
+                href="/posts/[slug]"
+              >
+                {<DateFormatter dateString={date} />}
+              </Link>
+            </div>
+            <div className='ml-auto'>
+              <Link
+                as={`/about`}
+                href="/about"
+              >
+                {<Avatar name={author.name} picture={author.picture} />}
+              </Link>
+            </div>
           </div>
         </div>
         <div>

@@ -1,6 +1,6 @@
 ---
 title: 'Maize Nft Airdrop Competition'
-excerpt: 'Maize will be hosting a collaboration Nft airdrop competition throughout 2023. There will be 39 opportunities to win. The top 3 wallet addresses of each month will win an Nft along with the overall top three wallet addresses for the year.'
+excerpt: 'Maize will be hosting an Nft airdrop competition throughout 2023. There will be 39 opportunities to win. The top 3 wallet addresses of each month will win an Nft along with the overall top three wallet addresses for the year...'
 coverImage: '/assets/blog/Maize-Nft-Airdrop-Competition/coverNew.jpg'
 date: '2023-05-06T07:41:00.000Z'
 author:
