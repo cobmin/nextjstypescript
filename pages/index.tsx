@@ -18,7 +18,7 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout>
         <Head>
-          <title>{`Cobmin's stuff`}</title>
+          <title>{`cobmin's stuff`}</title>
         </Head>
         <Container>
           <Intro />

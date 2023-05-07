@@ -17,7 +17,7 @@ const PostHeader = ({ title, coverImage, date, author }: Props) => {
       <div className="not-prose mt-6">
         <PostTitle>{title}</PostTitle>
       </div>
-      <div className="not-prose hidden md:block md:mb-6">
+      <div className="not-prose hidden md:block">
         <Avatar name={author.name} picture={author.picture} />
       </div>
       <div className="not-prose mb-3 text-lg">

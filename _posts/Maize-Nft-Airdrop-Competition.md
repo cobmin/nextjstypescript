@@ -1,6 +1,6 @@
 ---
 title: 'Maize Nft Airdrop Competition'
-excerpt: 'Maize will be hosting an Nft airdrop competition throughout 2023. There will be 39 opportunities to win. The top 3 wallet addresses of each month will win an Nft along with the overall top three wallet addresses for the year...'
+excerpt: 'Maize is hosting an Nft airdrop competition throughout 2023. There are 39 opportunities to win. The top 3 wallet addresses of each month will win an Nft along with the overall top three wallet addresses for the year...'
 coverImage: '/assets/blog/Maize-Nft-Airdrop-Competition/coverNew.jpg'
 date: '2023-05-06T07:41:00.000Z'
 author:
@@ -10,14 +10,14 @@ ogImage:
   url: '/assets/blog/Maize-Nft-Airdrop-Competition/coverNew.jpg'
 ---
 
-Maize will be hosting an Nft airdrop competition throughout 2023. There will be 39 opportunities to win. The top 3 wallet addresses of each month will win an Nft along with the overall top three wallet addresses for the year.  
+Maize is hosting an Nft airdrop competition throughout 2023. There are 39 opportunities to win. The top 3 wallet addresses of each month will win an Nft along with the overall top three wallet addresses for the year.  
 
 ## Prizes
 
 The 13 different Nfts are Maize collaboration pieces with creators that I have enjoyed working with this past year. The Prizes are listed on [LoopExchange](https://loopexchange.art/collection/maizecollaboration). At the end of each month one Nft will randomly be selected as the monthly collaboration piece which will be the prize for the month. 
 
 ### Collaboration Creators
-The artists below will be creating the collaboration pieces. All Nfts will be minted by me with the creator as the royalty. I thank all you for doing this as this competition means a lot to me.
+The artists below have created the collaboration pieces. All Nfts were minted by me with the creator as the royalty. I thank all you for doing this as this competition means a lot to me.
 
 Please check them out on twitter.
 [@shortdestroyers](https://twitter.com/shortdestroyers) [@0xgeel](https://twitter.com/0xgeel) [@fudgeyDOTeth](https://twitter.com/fudgeyDOTeth) [@loffyllama](https://twitter.com/loffyllama) [@Ordinary_Adam](https://twitter.com/Ordinary_Adam) [@ocarinalrc](https://twitter.com/ocarinalrc) [@NFTFightingClub](https://twitter.com/NFTFightingClub) [@0xsplush](https://twitter.com/0xsplush) [@ParableNFTs](https://twitter.com/ParableNFTs) [@Fancy_JPEG](https://twitter.com/Fancy_JPEG) [@vinzomniac](https://twitter.com/vinzomniac) [@ryank_119](https://twitter.com/ryank_119) [@Gnash741](https://twitter.com/Gnash741)

@@ -28,7 +28,7 @@ const HeroPost = ({
       </div>
       <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8">
         <div>
-          <h3 className="mb-2 text-4xl lg:text-5xl leading-tight">
+          <h3 className="mb-2 text-3xl lg:text-4xl leading-tight">
             <Link
               as={`/posts/${slug}`}
               href="/posts/[slug]"
@@ -36,7 +36,7 @@ const HeroPost = ({
               {title}
             </Link>
           </h3>
-          <div className="flex flex-row text-lg mb-2">
+          <div className="flex flex-row text-lg">
             <div className="mt-3">
               <Link
                 as={`/posts/${slug}`}
@@ -46,12 +46,7 @@ const HeroPost = ({
               </Link>
             </div>
             <div className='ml-auto'>
-              <Link
-                as={`/about`}
-                href="/about"
-              >
-                {<Avatar name={author.name} picture={author.picture} />}
-              </Link>
+              <Avatar name={author.name} picture={author.picture} />
             </div>
           </div>
         </div>
