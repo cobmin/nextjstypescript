@@ -34,7 +34,7 @@ const Meta = () => {
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       <meta
         name="description"
-        content={`stuff: Hoping to help others by sharing my interests.`}
+        content={`Hoping to help others by sharing my interests.`}
       />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
     </Head>
