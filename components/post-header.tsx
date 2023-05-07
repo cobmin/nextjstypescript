@@ -14,7 +14,9 @@ type Props = {
 const PostHeader = ({ title, coverImage, date, author }: Props) => {
   return (
     <>
-      <PostTitle>{title}</PostTitle>
+      <div className="not-prose mt-6">
+        <PostTitle>{title}</PostTitle>
+      </div>
       <div className="not-prose hidden md:block md:mb-6">
         <Avatar name={author.name} picture={author.picture} />
       </div>
