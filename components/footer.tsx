@@ -9,7 +9,7 @@ const Footer = () => {
     <footer className="bg-gray-400 py-4">
       <Container>
         <div className="grid grid-cols-2 gap-2">
-          <div className="w-1/2">
+          <div className="">
             <h4 className="text-sm leading-5 font-semibold text-gray-200 uppercase tracking-wider">Social Media</h4>
             <ul className="flex flex-wrap">
               <li>
@@ -29,7 +29,7 @@ const Footer = () => {
               </li>
             </ul>
           </div>
-          <div className="w-1/2 ml-auto">
+          <div className="ml-auto">
             <h4 className="text-sm leading-5 font-semibold text-gray-200 uppercase tracking-wider">Created With</h4>
             <ul className="flex flex-wrap">
               <li>

@@ -12,8 +12,8 @@ const NavItem = ({ href, text }) => (
 const Navbar = () => (
     <nav className="bg-gray-100 py-4">
         <div className="container mx-auto flex justify-between">
-            <Link href="/" className="text-2xl font-bold text-gray-800 ml-5">
-                <HomeIcon className="h-6 w-6 ml-4" />
+            <Link href="/" className="text-2xl font-bold text-gray-800 ml-4">
+                <HomeIcon className="h-6 w-6" />
             </Link>
             <ul className="flex">
                 <NavItem href="/about" text="About" />
