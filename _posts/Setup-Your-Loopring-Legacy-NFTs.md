@@ -34,4 +34,4 @@ Congratulations! You have successfully set up your legacy NFTs on Loopring. You 
 
 ### Still need help?
 
-If you have any questions or need to reach out, feel free to send me a direct message. My social media links can be found in the footer. Good Luck out there <3
+If you have any questions or need to reach out, feel free to send me a direct message. My social media links can be found in the footer. Good Luck out there <3 
