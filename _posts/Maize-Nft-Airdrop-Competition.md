@@ -1,31 +1,31 @@
 ---
-title: 'Maize Nft Airdrop Competition'
-excerpt: 'Maize is hosting an Nft airdrop competition throughout 2023. There are 39 opportunities to win. The top 3 wallet addresses of each month will win an Nft along with the overall top three wallet addresses for the year...'
-coverImage: '/assets/blog/Maize-Nft-Airdrop-Competition/coverNew.jpg'
+title: 'Maize NFT Airdrop Competition'
+excerpt: 'Maize is hosting an NFT airdrop competition throughout 2023. There are 39 opportunities to win. The top 3 wallet addresses of each month will win an NFT along with the overall top three wallet addresses for the year...'
+coverImage: '/assets/blog/Maize-NFT-Airdrop-Competition/coverNew.jpg'
 date: '2023-05-06T07:41:00.000Z'
 author:
   name: cobmin
   picture: '/assets/blog/authors/cobmin.jpg'
 ogImage:
-  url: '/assets/blog/Maize-Nft-Airdrop-Competition/coverNew.jpg'
+  url: '/assets/blog/Maize-NFT-Airdrop-Competition/coverNew.jpg'
 ---
 
-Maize is hosting an Nft airdrop competition throughout 2023. There are 39 opportunities to win. The top 3 wallet addresses of each month will win an Nft along with the overall top three wallet addresses for the year.  
+Maize is hosting an NFT airdrop competition throughout 2023. There are 39 opportunities to win. The top 3 wallet addresses of each month will win an NFT along with the overall top three wallet addresses for the year.  
 
 ## Prizes
 
-The 13 different Nfts are Maize collaboration pieces with creators that I have enjoyed working with this past year. The Prizes are listed on [LoopExchange](https://loopexchange.art/collection/maizecollaboration). At the end of each month one Nft will randomly be selected as the monthly collaboration piece which will be the prize for the month. 
+The 13 different NFTs are Maize collaboration pieces with creators that I have enjoyed working with this past year. The Prizes are listed on [LoopExchange](https://loopexchange.art/collection/maizecollaboration). At the end of each month one NFT will randomly be selected as the monthly collaboration piece which will be the prize for the month. 
 
 ### Collaboration Creators
-The artists below have created the collaboration pieces. All Nfts were minted by me with the creator as the royalty. I thank all you for doing this as this competition means a lot to me.
+The artists below have created the collaboration pieces. All NFTs were minted by me with the creator as the royalty. I thank all you for doing this as this competition means a lot to me.
 
 Please check them out on twitter.
 [@shortdestroyers](https://twitter.com/shortdestroyers) [@0xgeel](https://twitter.com/0xgeel) [@fudgeyDOTeth](https://twitter.com/fudgeyDOTeth) [@loffyllama](https://twitter.com/loffyllama) [@Ordinary_Adam](https://twitter.com/Ordinary_Adam) [@ocarinalrc](https://twitter.com/ocarinalrc) [@NFTFightingClub](https://twitter.com/NFTFightingClub) [@0xsplush](https://twitter.com/0xsplush) [@ParableNFTs](https://twitter.com/ParableNFTs) [@Fancy_JPEG](https://twitter.com/Fancy_JPEG) [@vinzomniac](https://twitter.com/vinzomniac) [@ryank_119](https://twitter.com/ryank_119) [@Gnash741](https://twitter.com/Gnash741)
 
 ## How to enter
 
-To enter the competition, you have to use any of the Nft airdrop functionalities on Maize in 2023.
-![](/assets/blog/Maize-Nft-Airdrop-Competition/NftAirdropFunctionality.jpg)
+To enter the competition, you have to use any of the NFT airdrop functionalities on Maize in 2023.
+![](/assets/blog/Maize-NFT-Airdrop-Competition/NFTAirdropFunctionality.jpg)
 
 If you have never attempted an Airdrop, it's easier than you think. Check out this [example video](https://www.youtube.com/watch?v=tsKZYBKJ-j0).
 
@@ -36,13 +36,13 @@ If you have not setup Maize yet, [get started](https://maizehelps.art/getstarted
 
 There will be 3 winners each month and 3 yearly winners. The monthly winners will be awarded the following month and the 3 yearly winners will be awarded in January 2024. The monthly competitions will start on the first of the month and end on the last day of that month. The time zone used is UTC. Note that December 2022 is included in this competition and will be added to January and yearly.
 
-The competition is based on transactions sent and not Nfts sent. For example, if you send 100 Nfts to 100 users your score will be 100 because there will be 100 transactions. If you send 100 of the same Nft to 1 user in a single transaction, then your score will be 1. I chose transaction amount over Nft amount because Nft amount could easily be abused.
+The competition is based on transactions sent and not NFTs sent. For example, if you send 100 NFTs to 100 users your score will be 100 because there will be 100 transactions. If you send 100 of the same NFT to 1 user in a single transaction, then your score will be 1. I chose transaction amount over NFT amount because NFT amount could easily be abused.
 
 ## Leaderboards
 
-![](/assets/blog/Maize-Nft-Airdrop-Competition/NftAirdropLeaderboard.jpg)
+![](/assets/blog/Maize-NFT-Airdrop-Competition/NFTAirdropLeaderboard.jpg)
 
-The leaderboards can be accessed in Maize v0.0.7 or higher. The leaderboards show the top 10 Nft transfers and amounts for the months and year. Remember that the winners are only the top 3 and it's based-on transaction amount.
+The leaderboards can be accessed in Maize v0.0.7 or higher. The leaderboards show the top 10 NFT transfers and amounts for the months and year. Remember that the winners are only the top 3 and it's based-on transaction amount.
 
 ## Additional Information
 
