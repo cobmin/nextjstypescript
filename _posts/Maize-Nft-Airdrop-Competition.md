@@ -42,7 +42,7 @@ The competition is based on transactions sent and not NFTs sent. For example, if
 
 ![](/assets/blog/Maize-NFT-Airdrop-Competition/NFTAirdropLeaderboard.jpg)
 
-The leaderboards can be accessed in Maize v0.0.7 or higher. The leaderboards show the top 10 NFT transfers and amounts for the months and year. Remember that the winners are only the top 3 and it's based-on transaction amount.
+The leaderboards can be accessed in Maize v0.0.7 or higher. The leaderboards show the top 10 NFT transfers and amounts for the months and year. Remember that the winners are only the top 3 and it's based-on transaction amount. 
 
 ## Additional Information
 
