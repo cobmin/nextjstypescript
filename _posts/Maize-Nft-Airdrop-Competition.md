@@ -1,13 +1,13 @@
 ---
 title: 'Maize NFT Airdrop Competition'
 excerpt: 'Maize is hosting an NFT airdrop competition throughout 2023. There are 39 opportunities to win. The top 3 wallet addresses of each month will win an NFT along with the overall top three wallet addresses for the year...'
-coverImage: '/assets/blog/Maize-NFT-Airdrop-Competition/coverNew.jpg'
+coverImage: '/assets/blog/Maize-Nft-Airdrop-Competition/coverNew.jpg'
 date: '2023-05-06T07:41:00.000Z'
 author:
   name: cobmin
   picture: '/assets/blog/authors/cobmin.jpg'
 ogImage:
-  url: '/assets/blog/Maize-NFT-Airdrop-Competition/coverNew.jpg'
+  url: '/assets/blog/Maize-Nft-Airdrop-Competition/coverNew.jpg'
 ---
 
 Maize is hosting an NFT airdrop competition throughout 2023. There are 39 opportunities to win. The top 3 wallet addresses of each month will win an NFT along with the overall top three wallet addresses for the year.  
@@ -25,7 +25,7 @@ Please check them out on twitter.
 ## How to enter
 
 To enter the competition, you have to use any of the NFT airdrop functionalities on Maize in 2023.
-![](/assets/blog/Maize-NFT-Airdrop-Competition/NFTAirdropFunctionality.jpg)
+![](/assets/blog/Maize-Nft-Airdrop-Competition/NFTAirdropFunctionality.jpg)
 
 If you have never attempted an Airdrop, it's easier than you think. Check out this [example video](https://www.youtube.com/watch?v=tsKZYBKJ-j0).
 
@@ -40,7 +40,7 @@ The competition is based on transactions sent and not NFTs sent. For example, if
 
 ## Leaderboards
 
-![](/assets/blog/Maize-NFT-Airdrop-Competition/NFTAirdropLeaderboard.jpg)
+![](/assets/blog/Maize-Nft-Airdrop-Competition/NFTAirdropLeaderboard.jpg)
 
 The leaderboards can be accessed in Maize v0.0.7 or higher. The leaderboards show the top 10 NFT transfers and amounts for the months and year. Remember that the winners are only the top 3 and it's based-on transaction amount. 
 
