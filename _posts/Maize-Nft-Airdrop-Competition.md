@@ -25,7 +25,7 @@ Please check them out on twitter.
 ## How to enter
 
 To enter the competition, you have to use any of the NFT airdrop functionalities on Maize in 2023.
-![](/assets/blog/Maize-Nft-Airdrop-Competition/NFTAirdropFunctionality.jpg)
+![](/assets/blog/Maize-Nft-Airdrop-Competition/NftAirdropFunctionality.jpg)
 
 If you have never attempted an Airdrop, it's easier than you think. Check out this [example video](https://www.youtube.com/watch?v=tsKZYBKJ-j0).
 
@@ -40,7 +40,7 @@ The competition is based on transactions sent and not NFTs sent. For example, if
 
 ## Leaderboards
 
-![](/assets/blog/Maize-Nft-Airdrop-Competition/NFTAirdropLeaderboard.jpg)
+![](/assets/blog/Maize-Nft-Airdrop-Competition/NftAirdropLeaderboard.jpg)
 
 The leaderboards can be accessed in Maize v0.0.7 or higher. The leaderboards show the top 10 NFT transfers and amounts for the months and year. Remember that the winners are only the top 3 and it's based-on transaction amount. 
 
