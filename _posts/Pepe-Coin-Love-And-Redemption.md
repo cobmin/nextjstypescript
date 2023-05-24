@@ -1,6 +1,6 @@
 ---
 title: 'Pepe the Frog: The Journey of Love and Redemption in the Meme Coin Revolution'
-excerpt: 'Pepe the Frog, originally a beloved and fun character, took an unexpected turn when it became associated with hate symbols. '
+excerpt: 'Pepe the Frog, originally a beloved and fun character, took an unexpected turn when it became associated with hate symbols. However, Matt Furie, the creator of Pepe, has been on a mission to reclaim...'
 coverImage: '/assets/blog/Pepe-Coin-Love-And-Redemption/CoverImage.jpg'
 date: '2023-05-23T07:41:00.000Z'
 author:
