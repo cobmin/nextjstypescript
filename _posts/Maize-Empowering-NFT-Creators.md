@@ -2,7 +2,7 @@
 title: 'Maize: Empowering NFT Creators with Simplified Loopring API Interactions'
 excerpt: 'In the fast-paced world of NFTs, efficient management and streamlined processes are crucial for creators seeking to maximize their impact. Meet Maize, an open-source console application designed to revolutionize the way NFT creators interact with Loopring...'
 coverImage: '/assets/blog/Maize-Empowering-NFT-Creators/CoverImage.jpg'
-date: '2023-06-30T07:41:00.000Z'
+date: '2023-05-30T07:41:00.000Z'
 author:
   name: cobmin
   picture: '/assets/blog/authors/cobmin.jpg'
