@@ -10,7 +10,6 @@ ogImage:
   url: '/assets/blog/Efficient-Batch-Minting-NFTs-on-Loopring/coverNew.jpg'
 ---
 
-## Introduction
 In this tutorial, we will delve into the process of setting up and efficiently minting NFTs in batches on Loopring. The focus will be on a simplified solution, accompanied by the necessary API calls, to guide you from a Layer 1 API key to successfully minting an NFT on Loopring. For a more detailed exploration, you can access the code on [GitHub](https://github.com/cobmin/Loopring-Batch-Mint-NFTs).
 
 **Note**: This tutorial is primarily designed for EOA wallets such as Metamask or GameStop. Since Loopring functions as a smart contract wallet and does not employ a conventional Layer 1 API key, the approach described in this tutorial is not applicable. However, the example for the Loopring wallet is provided in the GitHub repository under the [LoopringWallet branch](https://github.com/cobmin/Loopring-Batch-Mint-NFTs/tree/LoopringWallet).
