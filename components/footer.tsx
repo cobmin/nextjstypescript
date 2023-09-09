@@ -18,7 +18,7 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link href="https://discord.gg/loopring" target="_blank" rel="noopener noreferrer" className="w-1/3 text-base leading-6 text-gray-300 hover:text-white">
+                <Link href="https://discord.gg/gKxvUjRpvw" target="_blank" rel="noopener noreferrer" className="w-1/3 text-base leading-6 text-gray-300 hover:text-white">
                   <FaDiscord className="w-6 h-6 m-1" />
                 </Link>
               </li>
