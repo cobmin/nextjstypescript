@@ -28,6 +28,8 @@ In this space, you'll find a rich set of activities that are indicative of what 
 ### Closed Alpha
 Alpha Fields is currently in a closed alpha stage, accessible exclusively to those who own a CobLooper or a weapon from the [Cob’s Farm collection](https://loopexchange.art/collection/cobsfarm). These aren't just in-game assets; they're NFTs on the [Loopring blockchain](https://loopring.io/#/), providing true ownership and investment opportunities. This decision to restrict initial access serves a purpose: it creates an intimate testing environment where only the most dedicated and invested players can explore, give feedback, and influence the development of Cob’s Farm.
 
+Expect more drops to come as we progress.
+
 ### The Value of NFTs and Loopring Blockchain
 Your assets in Cob's Farm are more than just pixels on a screen; they're NFTs minted on the Loopring blockchain. Loopring is a Layer 2 blockchain built on Ethereum, offering Ethereum-equivalent security but with significantly lower transaction costs. This means you have true ownership of unique characters and weapons, which could even appreciate over time. Plus, the NFTs are fully under your control, allowing you to buy, trade, or sell them as you wish.
 ## Your Adventures Await: The Content Roadmap
