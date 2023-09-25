@@ -1,14 +1,15 @@
 ---
-title: 'Discover Cob''s Farm: The Alpha Origin Airdrop and Your Next Adventure Awaits'
-excerpt: 'Cob''s Farm is a fusion of the best elements of community-driven gaming and high-stakes action, blending the serenity of Animal Crossing with the intensity of Diablo. At Cob''s Farm, enjoy the dual worlds of peaceful farm life and pulse-pounding battles....'
-coverImage: '/assets/blog/Discover-Cobs-Farm/Entrance.jpeg'
-date: '2023-09-09T07:41:00.000Z'
+title: "Discover Cob's Farm: The Alpha Origin Airdrop and Your Next Adventure Awaits"
+excerpt: "Cob's Farm is a fusion of the best elements of community-driven gaming and high-stakes action, blending the serenity of Animal Crossing with the intensity of Diablo. At Cob's Farm, enjoy the dual worlds of peaceful farm life and pulse-pounding battles...."
+coverImage: "/assets/blog/Discover-Cobs-Farm/Entrance.jpeg"
+date: "2023-09-09T07:41:00.000Z"
 author:
   name: cobmin
-  picture: '/assets/blog/authors/cobmin.jpg'
+  picture: "/assets/blog/authors/cobmin.jpg"
 ogImage:
-  url: '/assets/blog/Discover-Cobs-Farm/Entrance.jpeg'
+  url: "/assets/blog/Discover-Cobs-Farm/Entrance.jpeg"
 ---
+
 
 ## What is Cob's Farm?
 
