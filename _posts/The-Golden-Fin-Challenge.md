@@ -19,7 +19,7 @@ Dive into the sparkling waters of Cob's Farm for a chance to snag the most covet
 ![GoldFish Catching](/assets/blog/The-Golden-Fin-Challenge/Fishing_CobsFarmEntrance.png)
 1. Catch the Goldfish: Navigate the waters of Cob's Farm to catch the golden prize.
 2. Claim Your Reward: Upon catching a goldfish, you'll be awarded a special token after the snapshot.
-3. Redeem for a Unique Goldfish Weapon: Send your token along with 30 LRC to 0x76ac0743cf374094b222727570e2f22d879de8c7. Within 48 hours, a unique goldfish weapon will be airdropped directly to you.
+3. Redeem for a Unique Goldfish Weapon: Send your token along with 30 LRC to the Cob's Farm Wallet (instructions will be provided in the token). Within 48 hours, a unique goldfish weapon will be airdropped directly to you.
 ### Competition End Time:
 The fishing frenzy isn’t endless! Mark your calendars: the competition concludes with a snapshot at 8:00 AM CST on Monday, November 20th. Make sure to have your catches by then to be eligible for the reward.
 ### Good News for Early Anglers:
