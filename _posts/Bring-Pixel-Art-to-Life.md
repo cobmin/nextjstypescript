@@ -99,9 +99,9 @@ For more insights into Maize's capabilities and how to use it, refer to the [doc
 
 ## Minting Your NFTs with Maize
 
-Before you can upload your assets to LooperLands, you need to mint them as NFTs. This crucial step turns your digital creations into unique, tradeable assets within the blockchain ecosystem.
+Before you can upload your assets to LooperLands, you need to mint them as NFTs on [Loopring](https://loopring.io/#/). This crucial step turns your digital creations into unique, tradeable assets within the blockchain ecosystem.
 
-- **Minting with Maize:** Maize simplifies the minting process. It generates your NFTs from the sprites and metadata you've created. For a detailed guide on minting with Maize, visit their minting tutorial.
+- **Minting with Maize:** Maize simplifies the minting process. It has already generated the metadata and images from the sprites you've created in the above step. Now you will mint those using Maize. Visit the [minting tutorial](https://maizehelps.art/docs/tutorials/minting/bulk-minting).
 - **Ready for Upload:** Once minted, your NFTs are ready to be part of the bulk upload process to LooperLands.
 
 ---
@@ -112,8 +112,8 @@ Before you can upload your assets to LooperLands, you need to mint them as NFTs.
 
 Once Maize has generated your PFPs, metadata, and minted your NFTs, it compiles all necessary files into a ZIP file for bulk upload.
 - **BulkUploadFolder:** After generation, you'll receive a ZIP file containing everything needed for a bulk upload to LooperLands.
-- **Step-by-Step Upload Process:** A readme file is included in the ZIP with detailed steps for the upload process. Follow these instructions in our Discord community to seamlessly upload your creations to LooperLands.
-- **Asset Submission Fee:** Once your asset is submitted, send the asset submission fee to looperlands.loopring.eth.
+- **Step-by-Step Upload Process:** A readme file is included in the ZIP with detailed steps for the upload process. Follow these instructions to seamlessly upload your creations to LooperLands.
+- **Asset Submission Fee:** Once your assets are submitted, send the asset submission fee to looperlands.loopring.eth.
 - **Transaction Confirmation:** Post a picture of your transaction in the ⁠looperlands-order-submissions channel on Discord.
 - **Queue and Merging:** Submissions are typically merged into the game around 8 AM EST each morning. You can view submissions currently in the queue [here](https://loopworms.io/DEV/LooperLands/AddNewLooper/CreatorReportFile.html).
 
@@ -148,11 +148,11 @@ Remember, asking for help is part of the learning process, and our community is 
 
 This guide has walked you through the journey of bringing your artistic vision to life in LooperLands. From the initial steps of becoming a creator and minting your NFTs, to the exciting phase of uploading your creations and engaging with your community, each step is designed to streamline your creative process. Remember, tools like [Maize](https://maizehelps.art) are there to handle the technical aspects, allowing you to focus more on your art and less on the complexities of NFT creation and distribution. I hope this guide helps you unlock the full potential of your creativity in LooperLands, enhancing both your artistic expression and community engagement.
 
-![Cob's Farm](/assets/blog/Discover-Cobs-Farm/Entrance.jpeg)
-
 ### Explore My Collection and Access Cob's Farm
 
-As you embark on your own journey in LooperLands, I invite you to explore my personal collection, which showcases the creations that have made Cob's Farm a reality. By visiting my collection on [LoopExchange](https://loopexchange.art/collection/cobsfarm), you'll get a glimpse of the creative possibilities within LooperLands and gain access to my game, Cob's Farm.
+![Cob's Farm](/assets/blog/Discover-Cobs-Farm/Entrance.jpeg)
+
+As you embark on your own journey in LooperLands, I invite you to explore my personal collection, which showcases the creations that have made [Cob's Farm](https://www.cobsfarm.com/) a reality. By visiting my collection on [LoopExchange](https://loopexchange.art/collection/cobsfarm), you'll get a glimpse of the creative possibilities within LooperLands and gain access to my game, Cob's Farm.
 
 If you're curious about the game and the world I've help build, check out [this article](https://www.cobmin.com/posts/Introducing-Alpha-Fields) about Cob's Farm. It's a testament to the power of creativity and community in the world of digital art and gaming.
 
