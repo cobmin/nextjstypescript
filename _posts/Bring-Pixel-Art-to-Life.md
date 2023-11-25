@@ -12,7 +12,7 @@ ogImage:
 
 ## Let's Get Started:
 
-Welcome to the vibrant world of LooperLands, a realm where your creativity can flourish through pixel art! This guide, based on my journey as an avid creator and enthusiast, aims to help you breathe life into your unique 2D assets. Whether you're crafting characters, weapons, or fishing rods, the tools and tips shared here are designed to streamline your creative process.
+Welcome to the vibrant world of [LooperLands](https://loopworms.io/DEV/LooperLands/LooperLandsGuide/), a realm where your creativity can flourish through pixel art! This guide, based on my journey as an avid creator and enthusiast, aims to help you breathe life into your unique 2D assets. Whether you're crafting characters, weapons, or fishing rods, the tools and tips shared here are designed to streamline your creative process.
 
 ![Overview Process](/assets/blog/Bring-Pixel-Art-to-Life/llcreatorbulk.png)
 
@@ -78,9 +78,9 @@ For those who are interested in a simpler process of creating and uploading a si
 
 The information below, however, is tailored towards those looking to create and upload multiple sprites at once, including making unique 1/1s or generating a variety of sprites.
 
-![Using Maize](/assets/blog/Bring-Pixel-Art-to-Life/Maize.png)
-
 ### For BulkUploads: Setting Up Your Sprites in Files
+
+![Using Maize](/assets/blog/Bring-Pixel-Art-to-Life/Maize.png)
 
 Once your sprites are crafted, it's time to bring them into the LooperLands universe. Maize plays a crucial role here, facilitating the generation of profile pictures (PFPs), metadata for minting, and preparing bulk uploads to LooperLands.
 
@@ -119,11 +119,12 @@ Once Maize has generated your PFPs, metadata, and minted your NFTs, it compiles 
 
 By following these steps and utilizing Maize's capabilities, you can efficiently integrate your creative works into the LooperLands ecosystem, enriching the game with your unique artistic contributions.
 
-![Community](/assets/blog/Bring-Pixel-Art-to-Life/Community.png)
 
 ---
 
 ## Engaging Your Community
+
+![Community](/assets/blog/Bring-Pixel-Art-to-Life/Community.png)
 
 Building a strong community is key to the success of any creator in LooperLands. One effective way to engage your audience and show appreciation is through airdropping NFTs.
 
