@@ -11,18 +11,24 @@ ogImage:
 ---
 
 ## Let's Get Started:
+
 Welcome to the vibrant world of LooperLands, a realm where your creativity can flourish through pixel art! This guide, based on my journey as an avid creator and enthusiast, aims to help you breathe life into your unique 2D assets. Whether you're crafting characters, weapons, or fishing rods, the tools and tips shared here are designed to streamline your creative process.
 
 ![Overview Process](/assets/blog/Bring-Pixel-Art-to-Life/llcreatorbulk.png)
+
+---
+
 ## Become an Official LooperLands Creator
 
 ### **Step 1: Onboard as a Creator**
+
 - **Join the Discord:** Start by joining the [LooperLands Discord community](https://discord.gg/QRqDEqsNjT).
 - **Open a Ticket:** In the open-a-ticket channel, type /open, click the link, select 'Creator Onboard' as the subject, and press Enter.
 - **Reach Out to Peteszah:** In your ticket, express your interest in becoming a creator, introduce yourself, and tag @Peteszah.
 - **Keep watch but carry on:** Monitor your ticket for updates, but don’t hesitate to start creating in the meantime.
 
 ### **Step 2: Download the Templates**
+
 - **Download Link:** Access and download the templates [here](http://cobmin.com/downloads/Templates.zip).
 - **Templates Overview:**
   - **Loopers:** Sprite sheet (160x288), Frame size (32x32) - perfect for character animations.
@@ -31,10 +37,15 @@ Welcome to the vibrant world of LooperLands, a realm where your creativity can f
 
 Use these templates as a foundation for your pixel art creations, customizing them to bring your unique ideas to life in the world of LooperLands.
 
+---
+
 ## Create Your Sprites
+
 ![Creating Sprites](/assets/blog/Bring-Pixel-Art-to-Life/Aseprite.png)
 Creating sprites is a cornerstone of bringing your pixel art to life in LooperLands. I personally use Aseprite for its effectiveness in pixel art creation and sprite management. However, the community uses a diverse range of tools, and I've listed some popular alternatives below for you to explore.
+
 ### **Choosing Your Software**
+
 - **Pixel Art Specific Tools:**
   - Aseprite (purchase): My personal favorite, offering robust features for pixel art. Visit [www.aseprite.org](https://www.aseprite.org/).
   - PixelStudio (free): A versatile tool for Android and Apple users. Ideal for crafting pixel art on the go. [Android](https://play.google.com/store/apps/details?id=com.PixelStudio&pli=1) | [Apple](https://apps.apple.com/us/app/pixel-studio-for-pixel-art/id1404203859).
@@ -43,16 +54,23 @@ Creating sprites is a cornerstone of bringing your pixel art to life in LooperLa
   - [EZGIF Sprite Cutter](https://ezgif.com/sprite-cutter): A diverse set of tools that's useful for various sprite creation needs.
 
 ### **Previewing Your Sprites**
+
 ![Creating Sprites](/assets/blog/Bring-Pixel-Art-to-Life/SpriteSheetHelper.gif)
 Once your sprites are ready, see them in motion:
 - **Test Your Sprites:** Easily upload your .png files [here](https://loopworms.io/DEV/LooperLands/sprites/) to view your sprites from all angles and see how they look in action.
 
 ### **Tutorials** 
+
 Need some guidance? Here are my go-to resources:
 - [PixelArt Tutorials](https://www.pixilart.com/tutorials): A treasure trove of information for pixel art enthusiasts. 
 - [AdamCYounis](https://www.youtube.com/playlist?list=PLLdxW--S_0h4dlWUpl-TzBp-ulqK3NiM_): My personal favorite for in-depth pixel art tutorials.
 
-## Single Uploads
+---
+
+## Generating Your Assets
+
+### Single Uploads
+
 For those who are interested in a simpler process of creating and uploading a single sprite to LooperLands, I recommend starting at Step 4 in the [Creators-101](https://discord.gg/DntWrUD3nq) guide on Discord. This method is ideal if you're starting out or prefer to focus on single creations.
 
 - **Step 4 in Creators-101:** Perfect for single sprite creations and uploads.
@@ -61,14 +79,15 @@ For those who are interested in a simpler process of creating and uploading a si
 The information below, however, is tailored towards those looking to create and upload multiple sprites at once, including making unique 1/1s or generating a variety of sprites.
 
 ![Using Maize](/assets/blog/Bring-Pixel-Art-to-Life/Maize.png)
-## For BulkUploads: Setting Up Your Sprites in Files
+
+### For BulkUploads: Setting Up Your Sprites in Files
+
 Once your sprites are crafted, it's time to bring them into the LooperLands universe. Maize plays a crucial role here, facilitating the generation of profile pictures (PFPs), metadata for minting, and preparing bulk uploads to LooperLands.
 
 - Folder Structure: Organize your sprite files in folders as per Maize's requirements. This structure is key in determining your NFT's metadata. For detailed guidance, check out the [Maize Documentation](https://maizehelps.art/docs/tutorials/one-of-one-creation/generate-one-of-one-loopers#folder-and-file-setup).
 
-## Generating Your Assets
-
 ### **Using Maize for Generation**
+
 Maize is a versatile console application that streamlines the creation and integration of your sprites into LooperLands.
 - **Multiple Options:** Whether you're looking to create a series of similar 1/1s or a range of diverse 1/1s, Maize offers the flexibility needed for your creative vision.
 - **Creating Sprites and NFTs:** Maize assists in generating sprites, NFTs, metadata, and the necessary bulk upload files for LooperLands.
@@ -76,11 +95,16 @@ Maize is a versatile console application that streamlines the creation and integ
 
 For more insights into Maize's capabilities and how to use it, refer to the [documentation](https://maizehelps.art/docs/tutorials/one-of-one-creation/generate-one-of-one-loopers).
 
+---
+
 ## Minting Your NFTs with Maize
+
 Before you can upload your assets to LooperLands, you need to mint them as NFTs. This crucial step turns your digital creations into unique, tradeable assets within the blockchain ecosystem.
 
 - **Minting with Maize:** Maize simplifies the minting process. It generates your NFTs from the sprites and metadata you've created. For a detailed guide on minting with Maize, visit their minting tutorial.
 - **Ready for Upload:** Once minted, your NFTs are ready to be part of the bulk upload process to LooperLands.
+
+---
 
 ## Uploading to LooperLands
 
@@ -96,6 +120,8 @@ Once Maize has generated your PFPs, metadata, and minted your NFTs, it compiles 
 By following these steps and utilizing Maize's capabilities, you can efficiently integrate your creative works into the LooperLands ecosystem, enriching the game with your unique artistic contributions.
 
 ![Community](/assets/blog/Bring-Pixel-Art-to-Life/Community.png)
+
+---
 
 ## Engaging Your Community
 
