@@ -1,6 +1,6 @@
 ---
 title: "Bring Your Pixel Art to Life in LooperLands"
-excerpt: "Step into the world of LooperLands as an official creator and bring your pixel art to life! Join our Discord community, download the necessary templates, and start crafting unique sprites with tools like PixelStudio and Aseprite. Test your creations, generate characters, weapons, and rods with Maize, and engage with the community by airdropping NFTs to item holders. Begin your creative journey in LooperLands today..."
+excerpt: "Unleash your creativity in LooperLands—forge pixel art masterpieces, animate characters, and design digital treasures. Dive into our supportive Discord, utilize top pixel crafting tools, and showcase your art through Maize. Start your pixel art adventure and enrich the LooperLands universe today!"
 coverImage: "/assets/blog/Bring-Pixel-Art-to-Life/PixelArtCreate.png"
 date: "2023-11-24T07:41:00.000Z"
 author:
@@ -85,6 +85,7 @@ Before you can upload your assets to LooperLands, you need to mint them as NFTs.
 ## Uploading to LooperLands
 
 ### **Utilizing Discord for Upload**
+
 Once Maize has generated your PFPs, metadata, and minted your NFTs, it compiles all necessary files into a ZIP file for bulk upload.
 - **BulkUploadFolder:** After generation, you'll receive a ZIP file containing everything needed for a bulk upload to LooperLands.
 - **Step-by-Step Upload Process:** A readme file is included in the ZIP with detailed steps for the upload process. Follow these instructions in our Discord community to seamlessly upload your creations to LooperLands.
@@ -95,16 +96,20 @@ Once Maize has generated your PFPs, metadata, and minted your NFTs, it compiles 
 By following these steps and utilizing Maize's capabilities, you can efficiently integrate your creative works into the LooperLands ecosystem, enriching the game with your unique artistic contributions.
 
 ![Community](/assets/blog/Bring-Pixel-Art-to-Life/Community.png)
+
 ## Engaging Your Community
+
 Building a strong community is key to the success of any creator in LooperLands. One effective way to engage your audience and show appreciation is through airdropping NFTs.
 
 ### Airdropping NFTs with Maize
+
 - **Find Your Item Holders:** Discover who owns your creations using Maize. This tool helps you identify the holders of your LooperLands items, making it easier to target your airdrops effectively. For more details, check out the [Holders from NFT Data tutorial](https://maizehelps.art/docs/tutorials/lookups/holders-from-nft-data).
 - **Reward Your Community:** Strengthen your connection with the community by airdropping NFTs to your item holders. This gesture not only rewards their loyalty but also increases the value of your creations. Learn how to airdrop NFTs with Maize [here](https://maizehelps.art/docs/tutorials/airdrops/nfts-to-users).
 
 Airdropping NFTs allows you to keep your community engaged and excited about your work. It's a powerful tool to acknowledge their support and encourage further interaction with your creations.
 
 ## Further Help
+
 Embarking on your creative journey in LooperLands should be exciting and seamless. However, if you find yourself needing assistance or have questions along the way, don't hesitate to reach out.
 
 - **Discord Support:** Join us on Discord and head to the creators-connect channel. It's a great place to seek advice, share experiences, and get answers from both the community and team members.
@@ -113,10 +118,13 @@ Embarking on your creative journey in LooperLands should be exciting and seamles
 Remember, asking for help is part of the learning process, and our community is always here to support and inspire.
 
 ## Final Thoughts
+
 This guide has walked you through the journey of bringing your artistic vision to life in LooperLands. From the initial steps of becoming a creator and minting your NFTs, to the exciting phase of uploading your creations and engaging with your community, each step is designed to streamline your creative process. Remember, tools like [Maize](https://maizehelps.art) are there to handle the technical aspects, allowing you to focus more on your art and less on the complexities of NFT creation and distribution. I hope this guide helps you unlock the full potential of your creativity in LooperLands, enhancing both your artistic expression and community engagement.
 
 ![Cob's Farm](/assets/blog/Discover-Cobs-Farm/Entrance.jpeg)
+
 ### Explore My Collection and Access Cob's Farm
+
 As you embark on your own journey in LooperLands, I invite you to explore my personal collection, which showcases the creations that have made Cob's Farm a reality. By visiting my collection on [LoopExchange](https://loopexchange.art/collection/cobsfarm), you'll get a glimpse of the creative possibilities within LooperLands and gain access to my game, Cob's Farm.
 
 If you're curious about the game and the world I've help build, check out [this article](https://www.cobmin.com/posts/Introducing-Alpha-Fields) about Cob's Farm. It's a testament to the power of creativity and community in the world of digital art and gaming.
