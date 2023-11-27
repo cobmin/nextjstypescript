@@ -98,7 +98,7 @@ The information below, however, is tailored towards those looking to create and 
 
 ![Using Maize](/assets/blog/Bring-Pixel-Art-to-Life/Maize.png)
 
-Once your sprites are crafted, it's time to bring them into the LooperLands universe. Maize plays a crucial role here, facilitating the generation of profile pictures (PFPs), metadata for minting, and preparing bulk uploads to LooperLands.
+Once your sprites are crafted, it's time to bring them into the LooperLands universe. One of Maize's Premium Features plays a crucial role here, facilitating the generation of profile pictures (PFPs), metadata for minting, and preparing bulk uploads to LooperLands.
 
 - Folder Structure: Organize your sprite files in folders as per Maize's requirements. This structure is key in determining your NFT's metadata. For detailed guidance, check out the [Maize Documentation](https://maizehelps.art/docs/tutorials/one-of-one-creation/generate-one-of-one-loopers#folder-and-file-setup).
 
@@ -108,6 +108,9 @@ Maize is a versatile console application that streamlines the creation and integ
 - **Multiple Options:** Whether you're looking to create a series of similar 1/1s or a range of diverse 1/1s, Maize offers the flexibility needed for your creative vision.
 - **Creating Sprites and NFTs:** Maize assists in generating sprites, NFTs, metadata, and the necessary bulk upload files for LooperLands.
 - **From NFTs to Sprites:** If you have pre-minted NFTs, Maize can help convert these into sprites, with metadata properties set up as key-value pairs.
+
+#### Accessing Maize Premium Features
+**Maize Premium NFT:** To use the 1/1 generation features of Maize, you must have the Maize Premium NFT, which you can purchase for 55 LRC [here](https://loopexchange.art/collection/maize-access).
 
 For more insights into Maize's capabilities and how to use it, refer to the [documentation](https://maizehelps.art/docs/tutorials/one-of-one-creation/generate-one-of-one-loopers).
 
