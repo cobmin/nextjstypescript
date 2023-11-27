@@ -37,6 +37,22 @@ Welcome to the vibrant world of [LooperLands](https://loopworms.io/DEV/LooperLan
 
 Use these templates as a foundation for your pixel art creations, customizing them to bring your unique ideas to life in the world of LooperLands.
 
+### Sprite Layout Overview
+
+The sprite sheets for Loopers, weapons, and Fishing Rods follow a structured layout to represent different states and actions of the characters and tools. Here's the order from top to bottom:
+
+- Attack Right: The sprite's attacking animation facing right.
+- Walk Right: The sprite's walking animation moving right.
+- Idle Right: The sprite in a standing (idle) pose facing right.
+- Attack Up: The sprite's attacking animation facing upwards.
+- Walk Up: The sprite's walking animation moving up.
+- Idle Up: The sprite in a standing (idle) pose facing upwards.
+- Attack Down: The sprite's attacking animation facing downwards.
+- Walk Down: The sprite's walking animation moving down.
+- Idle Down: The sprite in a standing (idle) pose facing downwards.
+
+For Fishing Rods, replace the 'Attack' animations with 'Casting' to depict the action of casting the fishing line in different directions.
+
 ---
 
 ## Create Your Sprites
