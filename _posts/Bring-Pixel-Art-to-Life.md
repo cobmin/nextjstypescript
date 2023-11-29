@@ -20,14 +20,14 @@ Welcome to the vibrant world of [LooperLands](https://loopworms.io/DEV/LooperLan
 
 ## 1. Become an Official LooperLands Creator
 
-### Onboard as a Creator**
+### **Onboard as a Creator**
 
 - **Join the Discord:** Start by joining the [LooperLands Discord community](https://discord.gg/QRqDEqsNjT).
 - **Open a Ticket:** In the open-a-ticket channel, type /open, click the link, select 'Creator Onboard' as the subject, and press Enter.
 - **Reach Out to Peteszah:** In your ticket, express your interest in becoming a creator, introduce yourself, and tag @Peteszah.
 - **Keep watch but carry on:** Monitor your ticket for updates, but don’t hesitate to start creating in the meantime.
 
-### Download the Templates**
+### **Download the Templates**
 
 - **Download Link:** Access and download the templates [here](http://cobmin.com/downloads/Templates.zip).
 - **Templates Overview:**
