@@ -7,6 +7,6 @@ export default async function markdownToHtml(markdown: string) {
     .use(slug)
     .use(html)
     .process(markdown)
-  console.log(result);
+  // console.log(result);
   return result.toString()
 }
