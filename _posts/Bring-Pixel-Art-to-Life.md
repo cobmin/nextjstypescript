@@ -18,16 +18,16 @@ Welcome to the vibrant world of [LooperLands](https://loopworms.io/DEV/LooperLan
 
 ---
 
-## Become an Official LooperLands Creator
+## 1. Become an Official LooperLands Creator
 
-### **Step 1: Onboard as a Creator**
+### Onboard as a Creator**
 
 - **Join the Discord:** Start by joining the [LooperLands Discord community](https://discord.gg/QRqDEqsNjT).
 - **Open a Ticket:** In the open-a-ticket channel, type /open, click the link, select 'Creator Onboard' as the subject, and press Enter.
 - **Reach Out to Peteszah:** In your ticket, express your interest in becoming a creator, introduce yourself, and tag @Peteszah.
 - **Keep watch but carry on:** Monitor your ticket for updates, but don’t hesitate to start creating in the meantime.
 
-### **Step 2: Download the Templates**
+### Download the Templates**
 
 - **Download Link:** Access and download the templates [here](http://cobmin.com/downloads/Templates.zip).
 - **Templates Overview:**
@@ -55,7 +55,7 @@ For Fishing Rods, replace the 'Attack' animations with 'Casting' to depict the a
 
 ---
 
-## Create Your Sprites
+## 2. Create Your Sprites
 
 ![Creating Sprites](/assets/blog/Bring-Pixel-Art-to-Life/Aseprite.png)
 Creating sprites is a cornerstone of bringing your pixel art to life in LooperLands. I personally use Aseprite for its effectiveness in pixel art creation and sprite management. However, the community uses a diverse range of tools, and I've listed some popular alternatives below for you to explore.
@@ -83,7 +83,7 @@ Need some guidance? Here are my go-to resources:
 
 ---
 
-## Generating Your Assets
+## 3. Generating Your Assets
 
 ### Single Uploads
 
@@ -116,7 +116,7 @@ For more insights into Maize's capabilities and how to use it, refer to the [doc
 
 ---
 
-## Minting Your NFTs with Maize
+## 4. Minting Your NFTs with Maize
 
 Before you can upload your assets to LooperLands, you need to mint them as NFTs on [Loopring](https://loopring.io/#/). This crucial step turns your digital creations into unique, tradeable assets within the blockchain ecosystem.
 
@@ -125,7 +125,7 @@ Before you can upload your assets to LooperLands, you need to mint them as NFTs 
 
 ---
 
-## Uploading to LooperLands
+## 5. Uploading to LooperLands
 
 ### **Utilizing Discord for Upload**
 

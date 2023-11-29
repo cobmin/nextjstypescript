@@ -4,8 +4,9 @@ import slug from 'remark-slug'
 
 export default async function markdownToHtml(markdown: string) {
   const result = await remark()
-    .use(slug) // Add slugs to headings
-    .use(html) // Convert to HTML
+    .use(slug)
+    .use(html)
     .process(markdown)
+  console.log(result);
   return result.toString()
 }
