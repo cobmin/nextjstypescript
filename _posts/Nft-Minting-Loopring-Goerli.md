@@ -57,7 +57,7 @@ Visit the [Goerli Faucet](https://goerlifaucet.com/), enter your MetaMask wallet
 ### Quick Access Guide
 
 1. Log into [Loopring's platform](https://loopring.io/#/pro) using your MetaMask wallet.
-2. Ensure MetaMask is set to the Goerli Testnet.
+2. Ensure the Goerli Testnet is selected at the top right.
 
 ### Account Activation on Loopring
 
@@ -94,11 +94,11 @@ If needed, activate your Loopring account using the test ETH obtained from the G
 
 ### Revolutionizing NFT Creation with Maize
 
-Maize is at the forefront of transforming how NFTs are created on Loopring, focusing on accessibility and efficiency. It stands out particularly for its ability to simplify complex processes, making [bulk minting](https://maizehelps.art/docs/tutorials/minting/bulk-minting) of NFTs not just possible but user-friendly. With Maize, both novice and experienced creators can navigate the NFT landscape with greater ease and less technical overhead.
+Maize is at the forefront of transforming how NFTs are created on Loopring, focusing on accessibility and efficiency. It stands out particularly for its ability to simplify complex processes, making bulk minting of NFTs not just possible but user-friendly. With Maize, both novice and experienced creators can navigate the NFT landscape with greater ease and less technical overhead.
 
 ### Streamlining Bulk Minting
 
-One of Maize's standout features is its bulk minting capability. This functionality allows creators to efficiently produce multiple NFTs in one streamlined process, significantly reducing the time and effort typically required for individual minting. Maize's intuitive interface caters to all levels of users, ensuring that the bulk creation of NFTs is a smooth and hassle-free experience.
+One of Maize's standout features is its [bulk minting](https://maizehelps.art/docs/tutorials/minting/bulk-minting) capability. This functionality allows creators to efficiently produce multiple NFTs in one streamlined process, significantly reducing the time and effort typically required for individual minting. Maize's intuitive interface caters to all levels of users, ensuring that the bulk creation of NFTs is a smooth and hassle-free experience.
 
 To delve deeper into how Maize can enhance your NFT projects, explore its features and capabilities in detail at [maizehelps.art](https://maizehelps.art/docs/).
 
@@ -120,6 +120,8 @@ In Looperlands, Maize aids in creating unique digital assets such as loopers, we
 
 ## Final Thoughts
 
+![Easy Peasy](/assets/blog/Nft-Minting-Loopring-Goerli/easyPeasy.png)
+
 ### Wrapping Up
 
 In this journey, we've explored how the Goerli Testnet, in conjunction with Loopring, provides a seamless, cost-effective gateway for NFT minting. This approach not only saves on expenses but also offers a risk-free environment to experiment and perfect your NFTs before taking them live. Leveraging the Goerli Testnet for testing and Loopring for execution creates an ideal blend of efficiency and practicality in the NFT creation process.
@@ -138,7 +140,7 @@ I'd love to hear about your experiences in the world of NFT minting. Have you tr
 
 ### Experiment and Share
 
-Now it's your turn to dive in. I encourage you to try minting NFTs using the Goerli Testnet and Loopring. Experiment, explore, and don't hesitate to push the boundaries of your creativity. Afterward, share your creations and experiences. Your journey could inspire others and contribute to the growing knowledge base in our community.
+Now it's your turn to dive in. I encourage you to try minting NFTs using the Goerli Testnet and Loopring. Experiment, explore, and don't hesitate to push the boundaries of your creativity. Afterward, share your creations and experiences. Your journey could inspire others and contribute to the growing knowledge base in [our community](https://discord.gg/loopring).
 
 ### Stay Connected
 
