@@ -22,7 +22,7 @@ The Goerli Testnet offers a risk-free environment that mirrors the Ethereum Main
 
 ### Loopring and Goerli: Reducing Costs in NFT Minting
 
-Loopring, with its efficient and secure Layer 2 solutions, complements the Goerli Testnet's capabilities. This guide focuses on using MetaMask with Loopring and Goerli for a cost-effective and practical approach to NFT minting, ideal for preparing projects for a full-scale launch.
+[Loopring](https://loopring.io/), with its efficient and secure Layer 2 solutions, complements the Goerli Testnet's capabilities. This guide focuses on using MetaMask with Loopring and Goerli for a cost-effective and practical approach to NFT minting, ideal for preparing projects for a full-scale launch.
 
 --- 
 
@@ -95,6 +95,10 @@ If needed, activate your Loopring account using the test ETH obtained from the G
 ### Revolutionizing NFT Creation with Maize
 
 Maize is at the forefront of transforming how NFTs are created on Loopring, focusing on accessibility and efficiency. It stands out particularly for its ability to simplify complex processes, making bulk minting of NFTs not just possible but user-friendly. With Maize, both novice and experienced creators can navigate the NFT landscape with greater ease and less technical overhead.
+
+## Maize Compatibility with Goerli Testnet
+
+A significant advantage of Maize is its support for the Goerli Testnet, which allows creators to test their NFTs in a cost-effective and risk-free environment before launching on the mainnet. This compatibility underscores Maize's commitment to providing a comprehensive and practical NFT minting solution that aligns with creators' needs for thorough testing.
 
 ### Streamlining Bulk Minting
 
