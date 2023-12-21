@@ -8,6 +8,7 @@ author:
   picture: "/assets/blog/authors/cobmin.jpg"
 ogImage:
   url: "/assets/blog/Discover-Cobs-Farm/Farm.png"
+categories: ["Cob's Farm"]
 ---
 
 ## Introduction

@@ -8,6 +8,7 @@ author:
   picture: '/assets/blog/authors/cobmin.jpg'
 ogImage:
   url: '/assets/blog/Pepe-Coin-Love-And-Redemption/CoverImage.jpg'
+categories: ["Random"]
 ---
 
 Pepe the Frog, originally a beloved and fun character, took an unexpected turn when it became associated with hate symbols. However, Matt Furie, the creator of Pepe, has been on a mission to reclaim the frog's image, firmly believing that Pepe represents love rather than hate. Now, as Pepe ventures into the world of meme coins, there is a unique opportunity for this digital currency to solidify Pepe's symbol as one of love. With a supportive and positive community, Pepe may overcome any obstacles and rise to new heights. In this article, we'll explore the journey of Pepe the Frog, the redemption of love, and the potential for the meme coin to shape a positive future.

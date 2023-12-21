@@ -8,6 +8,7 @@ author:
   picture: "/assets/blog/authors/cobmin.jpg"
 ogImage:
   url: "/assets/blog/The-Golden-Fin-Challenge/Fishing_CobsFarmCity.png"
+categories: ["Cob's Farm", "Competition"]
 ---
 
 ## It Starts!

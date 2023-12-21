@@ -8,6 +8,7 @@ author:
   picture: '/assets/blog/authors/cobmin.jpg'
 ogImage:
   url: '/assets/blog/Setup-Your-Loopring-Legacy-NFTs/CollectionShowcase.jpg'
+categories: ["Loopring"]
 ---
 
 Prior to the ability to create multiple collections on Loopring, users were limited to one collection per wallet. Any NFTs created under this single collection are now considered to be legacy NFTs. If you have noticed NFTs in the Loopring ecosystem not displaying correctly, it may be because they are legacy NFTs that have not yet been associated with a new collection. Fortunately, there is a solution.

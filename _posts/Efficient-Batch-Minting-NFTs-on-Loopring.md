@@ -8,7 +8,7 @@ author:
   picture: '/assets/blog/authors/cobmin.jpg'
 ogImage:
   url: '/assets/blog/Efficient-Batch-Minting-NFTs-on-Loopring/coverNew.jpg'
-categories: ["NFTs","Maize"]
+categories: ["Maize", "NFTs"]
 ---
 
 In this tutorial, we will delve into the process of setting up and efficiently minting NFTs in batches on Loopring. The focus will be on a simplified solution, accompanied by the necessary API calls, to guide you from a Layer 1 API key to successfully minting an NFT on Loopring. For a more detailed exploration, you can access the code on [GitHub](https://github.com/cobmin/Loopring-Batch-Mint-NFTs).

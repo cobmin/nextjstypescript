@@ -8,6 +8,7 @@ author:
   picture: '/assets/blog/authors/cobmin.jpg'
 ogImage:
   url: '/assets/blog/Maize-Nft-Airdrop-Competition/coverNew.jpg'
+categories: ["Competition", "Maize"]
 ---
 
 Maize is hosting an NFT airdrop competition throughout 2023. There are 39 opportunities to win. The top 3 wallet addresses of each month will win an NFT along with the overall top three wallet addresses for the year.  

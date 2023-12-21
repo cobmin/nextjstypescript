@@ -18,6 +18,7 @@ const MoreStories = ({ posts }: Props) => {
             author={post.author}
             slug={post.slug}
             excerpt={post.excerpt}
+            categories={post.categories}
           />
         ))}
       </div>
