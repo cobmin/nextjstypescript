@@ -8,6 +8,7 @@ author:
   picture: "/assets/blog/authors/cobmin.jpg"
 ogImage:
   url: "/assets/blog/Bring-Pixel-Art-to-Life/PixelArtCreate.png"
+categories: ["LooperLands", "Maize"]
 ---
 
 ## Contents

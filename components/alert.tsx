@@ -1,15 +1,21 @@
-import Container from './container'
-import cn from 'classnames'
-import { EXAMPLE_PATH } from '../lib/constants'
+import React, { useState } from 'react';
+import Container from './container';
+import cn from 'classnames';
 
 type Props = {
-  preview?: boolean
-}
+  preview?: boolean;
+};
 
 const Alert = ({ preview }: Props) => {
+  const [showAlert, setShowAlert] = useState(true);
+
+  if (!showAlert) {
+    return null;
+  }
+
   return (
     <div
-      className={cn('border-b', {
+      className={cn('border-b relative', {
         'bg-neutral-800 border-neutral-800 text-white': preview,
         'bg-neutral-50 border-neutral-200': !preview,
       })}
@@ -29,20 +35,26 @@ const Alert = ({ preview }: Props) => {
             </>
           ) : (
             <>
-              The source code for this blog is{' '}
+              Get started with my{' '}
               <a
-                href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+                href={`https://maizehelps.art/`}
                 className="underline hover:text-blue-600 duration-200 transition-colors"
               >
-                available on GitHub
+                NFT Toolkit
               </a>
               .
             </>
           )}
+          <button
+            onClick={() => setShowAlert(false)}
+            className="absolute top-0 right-0 p-2"
+          >
+            &#215;
+          </button>
         </div>
       </Container>
     </div>
-  )
-}
+  );
+};
 
-export default Alert
+export default Alert;

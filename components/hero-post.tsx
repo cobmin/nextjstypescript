@@ -11,6 +11,7 @@ type Props = {
   excerpt: string
   author: Author
   slug: string
+  categories: string[]
 }
 
 const HeroPost = ({
@@ -20,6 +21,7 @@ const HeroPost = ({
   excerpt,
   author,
   slug,
+  categories = [] // Set a default empty array
 }: Props) => {
   return (
     <section className="bg-gray-200 rounded-lg p-5 mb-6">
@@ -36,8 +38,15 @@ const HeroPost = ({
               {title}
             </Link>
           </h3>
+          <div className="mt-2">
+            {categories.map(category => (
+              <span key={category} className="inline-block bg-gray-300 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+                {category}
+              </span>
+            ))}
+          </div>
           <div className="flex flex-row text-lg">
-            <div className="mt-3">
+            <div className="mt-2">
               <Link
                 as={`/posts/${slug}`}
                 href="/posts/[slug]"

@@ -8,6 +8,7 @@ author:
   picture: "/assets/blog/authors/cobmin.jpg"
 ogImage:
   url: "/assets/blog/Nft-Minting-Loopring-Goerli/easyStuff.png"
+categories: ["NFTs","Maize"]
 ---
 
 ## Contents

@@ -1,3 +1,5 @@
 export const EXAMPLE_PATH = 'blog-starter'
 export const CMS_NAME = 'Markdown'
 export const HOME_OG_IMAGE_URL = 'https://www.cobmin.com/assets/HomeImage.jpg'
+export const TwitterUrl = 'https://twitter.com/cobmin'
+export const DiscordUrl = 'https://discord.gg/gKxvUjRpvw'

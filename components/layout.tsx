@@ -16,8 +16,8 @@ const Layout = ({ preview, children, title, description, imageUrl }: Props) => {
     <>
       <Meta title={title} description={description} imageUrl={imageUrl} />
       <div className="min-h-screen">
+        <Alert preview={preview} />
         <Navbar />
-        {/* <Alert preview={preview} /> */}
         <main>{children}</main>
       </div>
       <Footer />
