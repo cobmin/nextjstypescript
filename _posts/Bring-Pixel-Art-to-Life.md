@@ -10,7 +10,9 @@ ogImage:
   url: "/assets/blog/Bring-Pixel-Art-to-Life/PixelArtCreate.png"
 ---
 
-## Let's Get Started:
+## Contents
+
+## Get Started
 
 Welcome to the vibrant world of [LooperLands](https://loopworms.io/DEV/LooperLands/LooperLandsGuide/), a realm where your creativity can flourish through pixel art! This guide, based on my journey as an avid creator and enthusiast, aims to help you breathe life into your unique 2D assets. Whether you're crafting characters, weapons, or fishing rods, the tools and tips shared here are designed to streamline your creative process.
 
@@ -18,7 +20,7 @@ Welcome to the vibrant world of [LooperLands](https://loopworms.io/DEV/LooperLan
 
 ---
 
-## 1. Become an Official LooperLands Creator
+## Become an Official LooperLands Creator
 
 ### **Onboard as a Creator**
 
@@ -55,7 +57,7 @@ For Fishing Rods, replace the 'Attack' animations with 'Casting' to depict the a
 
 ---
 
-## 2. Create Your Sprites
+## Create Your Sprites
 
 ![Creating Sprites](/assets/blog/Bring-Pixel-Art-to-Life/Aseprite.png)
 Creating sprites is a cornerstone of bringing your pixel art to life in LooperLands. I personally use Aseprite for its effectiveness in pixel art creation and sprite management. However, the community uses a diverse range of tools, and I've listed some popular alternatives below for you to explore.
@@ -83,7 +85,7 @@ Need some guidance? Here are my go-to resources:
 
 ---
 
-## 3. Generating Your Assets
+## Generating Your Assets
 
 ### Single Uploads
 
@@ -116,7 +118,7 @@ For more insights into Maize's capabilities and how to use it, refer to the [doc
 
 ---
 
-## 4. Minting Your NFTs with Maize
+## Minting Your NFTs with Maize
 
 Before you can upload your assets to LooperLands, you need to mint them as NFTs on [Loopring](https://loopring.io/#/). This crucial step turns your digital creations into unique, tradeable assets within the blockchain ecosystem.
 
@@ -125,7 +127,7 @@ Before you can upload your assets to LooperLands, you need to mint them as NFTs 
 
 ---
 
-## 5. Uploading to LooperLands
+## Uploading to LooperLands
 
 ### **Utilizing Discord for Upload**
 
@@ -166,6 +168,8 @@ Remember, asking for help is part of the learning process, and our community is 
 ## Final Thoughts
 
 This guide has walked you through the journey of bringing your artistic vision to life in LooperLands. From the initial steps of becoming a creator and minting your NFTs, to the exciting phase of uploading your creations and engaging with your community, each step is designed to streamline your creative process. Remember, tools like [Maize](https://maizehelps.art) are there to handle the technical aspects, allowing you to focus more on your art and less on the complexities of NFT creation and distribution. I hope this guide helps you unlock the full potential of your creativity in LooperLands, enhancing both your artistic expression and community engagement.
+
+## Continue On
 
 ### Explore My Collection and Access Cob's Farm
 

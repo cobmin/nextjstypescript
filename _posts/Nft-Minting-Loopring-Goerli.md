@@ -10,7 +10,9 @@ ogImage:
   url: "/assets/blog/Nft-Minting-Loopring-Goerli/easyStuff.png"
 ---
 
-## Let's get Started
+## Contents
+
+## Get Started
 
 ### The Transformative World of NFTs
 
@@ -140,7 +142,7 @@ I'd love to hear about your experiences in the world of NFT minting. Have you tr
 
 --- 
 
-## Get Started
+## Continue On
 
 ### Experiment and Share
 
