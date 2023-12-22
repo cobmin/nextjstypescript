@@ -13,13 +13,13 @@ const Meta = ({ title, description, imageUrl }) => {
       <meta name="description" content={description || 'Hoping to help others by sharing my interests.'} />
       <meta property="og:title" content={title || 'cobmins stuff'} />
       <meta property="og:description" content={description || 'Hoping to help others by sharing my interests.'} />
-      <meta property="og:image" content={imageUrl || HOME_OG_IMAGE_URL} />
+      <meta property="og:image" content={imageUrl || 'https://www.cobmin.com/assets/HomeImage.jpg'} />
       <meta property="og:type" content="article" />
       <meta property="og:url" content={currentUrl} />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content={title || 'cobmins stuff'} />
       <meta name="twitter:description" content={description || 'Hoping to help others by sharing my interests.'} />
-      <meta name="twitter:image" content={imageUrl || HOME_OG_IMAGE_URL} />
+      <meta name="twitter:image" content={imageUrl || 'https://www.cobmin.com/assets/HomeImage.jpg'} />
       <meta name="twitter:site" content="@cobmin" />
 
       <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
