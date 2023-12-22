@@ -8,7 +8,7 @@ const CategoryTags = ({ categories }: CategoryTagsProps) => {
             {categories.map((category, index) => (
                 <span
                     key={category}
-                    className={`bg-gray-300 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 ${index > 0 ? 'ml-2' : ''}`}
+                    className={`bg-light-accent dark:bg-dark-accent text-light-text dark:text-dark-text rounded-full px-3 py-1 text-sm font-semibold ${index > 0 ? 'ml-2' : ''}`}
                 >
                     {category}
                 </span>

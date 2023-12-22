@@ -17,10 +17,9 @@ const Alert = ({ preview }: Props) => {
   return (
     <div
       className={cn(
-        'border-b-4 relative transition-all duration-500 ease-in-out',
+        'relative transition-all duration-500 ease-in-out',
         {
-          'bg-yellow-400 border-yellow-600 text-neutral-900': preview,
-          'bg-green-400 border-green-600 text-neutral-900': !preview,
+          'bg-light-accent dark:bg-dark-accent text-light-text dark:text-dark-text': !preview,
         }
       )}
     >

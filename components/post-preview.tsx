@@ -25,7 +25,7 @@ const PostPreview = ({
   categories,
 }: Props) => {
   return (
-    <div className="bg-gray-200 rounded-lg p-5 mb-4">
+    <div className="bg-light-accent dark:bg-dark-accent text-light-text dark:text-dark-text rounded-lg p-5 mb-4">
       <CoverImage slug={slug} title={title} src={coverImage} />
       <h3 className="text-3xl mb-3 leading-snug">
         <Link as={`/posts/${slug}`} href="/posts/[slug]">

@@ -25,7 +25,7 @@ const HeroPost = ({
   categories = [] // Set a default empty array
 }: Props) => {
   return (
-    <section className="bg-gray-200 rounded-lg p-5 mb-6">
+    <section className="bg-light-accent dark:bg-dark-accent text-light-text dark:text-dark-text rounded-lg p-5 mb-6">
       <div className="mb-2a md:mb-4">
         <CoverImage title={title} src={coverImage} slug={slug} />
       </div>

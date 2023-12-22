@@ -34,7 +34,7 @@ export default function Post({ post, morePosts, preview }: Props) {
           <PostTitle>Loading…</PostTitle>
         ) : (
           <>
-            <article className="prose lg:prose-xl max-w-none prose-img:w-full prose-img:rounded-md prose-a:text-blue-400 hover:prose-a:text-blue-300 prose-a:no-underline mb-16">
+            <article className="prose lg:prose-xl max-w-none prose-img:w-full prose-img:rounded-md prose-a:text-blue-400 hover:prose-a:text-blue-300 prose-a:no-underline pb-16">
               <Head>
                 <title>{title}</title>
               </Head>

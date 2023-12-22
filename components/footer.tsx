@@ -1,50 +1,48 @@
 import Container from './container'
 import Link from 'next/link';
 import { FaTwitter, FaGithub, FaDiscord } from 'react-icons/fa';
-import NextJs from '../public/favicon/safari-pinned-tab.svg'
-import Image from 'next/image';
 import { DiscordUrl, TwitterUrl } from '../lib/constants';
 
 const Footer = () => {
   return (
-    <footer className="bg-gray-400 py-4">
+    <footer className="bg-light-accent dark:bg-dark-accent text-light-text dark:text-dark-text py-4">
       <Container>
         <div className="grid grid-cols-2 gap-2 mb-2">
           <div className="">
-            <h4 className="text-sm leading-5 font-semibold text-gray-200 uppercase tracking-wider">Social Media</h4>
+            <h4 className="text-sm leading-5 font-semibold uppercase tracking-wider">Social Media</h4>
             <ul className="flex flex-wrap">
               <li>
-                <Link href={TwitterUrl} target="_blank" rel="noopener noreferrer" className="w-1/3 text-base leading-6 text-gray-300 hover:text-white" >
+                <Link href={TwitterUrl} target="_blank" rel="noopener noreferrer" className="w-1/3 text-base leading-6 hover:text-white" >
                   <FaTwitter className="w-6 h-6 m-1" />
                 </Link>
               </li>
               <li>
-                <Link href={DiscordUrl} target="_blank" rel="noopener noreferrer" className="w-1/3 text-base leading-6 text-gray-300 hover:text-white">
+                <Link href={DiscordUrl} target="_blank" rel="noopener noreferrer" className="w-1/3 text-base leading-6 hover:text-white">
                   <FaDiscord className="w-6 h-6 m-1" />
                 </Link>
               </li>
               <li>
-                <Link href="https://github.com/cobmin" target="_blank" rel="noopener noreferrer" className="w-1/3 text-base leading-6 text-gray-300 hover:text-white">
+                <Link href="https://github.com/cobmin" target="_blank" rel="noopener noreferrer" className="w-1/3 text-base leading-6 hover:text-white">
                   <FaGithub className="w-6 h-6 m-1" />
                 </Link>
               </li>
             </ul>
           </div>
           <div className="ml-auto">
-            <h4 className="text-sm leading-5 font-semibold text-gray-200 uppercase tracking-wider">Quick Links</h4>
+            <h4 className="text-sm leading-5 font-semibold  uppercase tracking-wider">Quick Links</h4>
             <ul className="">
               <li>
-                <Link href="/posts/Maize-Empowering-NFT-Creators" className="text-base leading-6 text-gray-300 hover:text-white">
+                <Link href="/posts/Maize-Empowering-NFT-Creators" className="text-base leading-6 hover:text-white">
                   Maize: Empowering NFT Creators
                 </Link>
               </li>
               <li>
-                <Link href="/posts/Introducing-Alpha-Fields" className="text-base leading-6 text-gray-300 hover:text-white">
+                <Link href="/posts/Introducing-Alpha-Fields" className="text-base leading-6 hover:text-white">
                   Introducing Alpha Fields
                 </Link>
               </li>
               <li>
-                <Link href="/posts/Bring-Pixel-Art-to-Life" className="text-base leading-6 text-gray-300 hover:text-white">
+                <Link href="/posts/Bring-Pixel-Art-to-Life" className="text-base leading-6 hover:text-white">
                   Bring Pixel Art to Life
                 </Link>
               </li>
@@ -72,8 +70,8 @@ const Footer = () => {
           </div> */}
         </div>
         <div>
-          <h4 className="text-sm leading-5 font-semibold text-gray-200 uppercase tracking-wider">Contact Me</h4>
-          <p className="text-base leading-6 text-gray-300 hover:text-white">
+          <h4 className="text-sm leading-5 font-semibold uppercase tracking-wider">Contact Me</h4>
+          <p className="text-base leading-6 hover:text-white">
             Have questions or want to collaborate? Feel free to reach out!
           </p>
           <a href="mailto:your-email@example.com" className="underline hover:text-white">
