@@ -5,7 +5,8 @@ import { CMS_NAME, HOME_OG_IMAGE_URL } from '../lib/constants'
 const Meta = ({ title, description, imageUrl }) => {
   const router = useRouter();
   const currentUrl = `${process.env.NEXT_PUBLIC_BASE_URL}${router.asPath}`;
-  imageUrl = `${process.env.NEXT_PUBLIC_BASE_URL}${imageUrl}`
+  const fullImageUrl = imageUrl ? `${process.env.NEXT_PUBLIC_BASE_URL}${imageUrl}` : HOME_OG_IMAGE_URL;
+
 
   return (
     <Head>
@@ -13,13 +14,13 @@ const Meta = ({ title, description, imageUrl }) => {
       <meta name="description" content={description || 'Hoping to help others by sharing my interests.'} />
       <meta property="og:title" content={title || 'cobmins stuff'} />
       <meta property="og:description" content={description || 'Hoping to help others by sharing my interests.'} />
-      <meta property="og:image" content={imageUrl || 'https://www.cobmin.com/assets/HomeImage.jpg'} />
+      <meta property="og:image" content={fullImageUrl} />
       <meta property="og:type" content="article" />
       <meta property="og:url" content={currentUrl} />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content={title || 'cobmins stuff'} />
       <meta name="twitter:description" content={description || 'Hoping to help others by sharing my interests.'} />
-      <meta name="twitter:image" content={imageUrl || 'https://www.cobmin.com/assets/HomeImage.jpg'} />
+      <meta name="twitter:image" content={fullImageUrl} />
       <meta name="twitter:site" content="@cobmin" />
 
       <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
