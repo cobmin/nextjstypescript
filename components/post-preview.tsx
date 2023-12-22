@@ -26,9 +26,7 @@ const PostPreview = ({
   return (
     <div className="flex flex-col bg-light-secondary dark:bg-dark-secondary text-light-text dark:text-dark-text rounded-lg border border-gray-200 dark:border-gray-600 shadow-sm p-4 mb-4 transition duration-300 hover:shadow-md h-full">
       <div className="aspect-w-16 aspect-h-9 w-full overflow-hidden rounded-lg">
-        <Link aria-label={title} as={`/posts/${slug}`} href="/posts/[slug]">
-          <CoverImage slug={slug} title={title} src={coverImage} />
-        </Link>
+        <CoverImage slug={slug} title={title} src={coverImage} />
       </div>
       <h3 className="text-2xl mt-4 leading-snug">
         <Link as={`/posts/${slug}`} href="/posts/[slug]">

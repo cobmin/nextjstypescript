@@ -1,6 +1,6 @@
 import React from 'react'
 import HeaderImage from '../public/assets/WeddingSoloPic.jpg'
-import Image from 'next/image';
+import Image from "next/legacy/image";
 import { DiscordUrl, TwitterUrl } from '../lib/constants';
 
 const About = () => {

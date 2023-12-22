@@ -1,5 +1,5 @@
 import HeaderImage from '../public/assets/HomeImage.jpg'
-import Image from 'next/image';
+import Image from "next/legacy/image";
 
 const Intro = () => {
   return (
