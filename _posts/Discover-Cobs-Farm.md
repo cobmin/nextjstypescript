@@ -8,7 +8,7 @@ author:
   picture: "/assets/blog/authors/cobmin.jpg"
 ogImage:
   url: "/assets/blog/Discover-Cobs-Farm/Entrance.jpeg"
-categories: ["Cob's Farm", "LooperLands"]
+categories: ["cob's farm", "looperlands"]
 ---
 
 

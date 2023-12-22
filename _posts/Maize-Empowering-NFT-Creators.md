@@ -8,7 +8,7 @@ author:
   picture: '/assets/blog/authors/cobmin.jpg'
 ogImage:
   url: '/assets/blog/Maize-Empowering-NFT-Creators/CoverImage.jpg'
-categories: ["Loopring", "Maize"]
+categories: ["loopring", "maize"]
 ---
 
 In the fast-paced world of NFTs, efficient management and streamlined processes are crucial for creators seeking to maximize their impact. Meet Maize, an open-source console application designed to revolutionize the way NFT creators interact with Loopring. Developed with a belief in the vision of self-custody and being your own bank, Maize is here to empower creators and foster growth within the Loopring ecosystem.
