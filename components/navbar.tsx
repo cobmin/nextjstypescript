@@ -15,7 +15,7 @@ const Navbar = () => {
     const { theme, toggleTheme } = useTheme(); // Use theme and toggleTheme
 
     return (
-        <nav className="bg-light-secondary dark:bg-dark-secondary text-light-text dark:text-dark-text py-4">
+        <nav className="bg-light-primary dark:bg-dark-primary text-light-text dark:text-dark-text p-4">
             <div className="container mx-auto flex justify-between items-center">
                 <Link className="text-2xl font-boldml-4" href="/">
                     <HomeIcon className="h-6 w-6" />

@@ -6,7 +6,7 @@ import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import Post from '../interfaces/post'
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useCallback } from 'react';
 
 type Props = {
   allPosts: Post[]
@@ -23,22 +23,20 @@ export default function Index({ allPosts }: Props) {
   }, [allPosts]);
 
 
-  const toggleCategory = (category) => {
-    setSelectedCategories(prevSelected => {
+  const toggleCategory = useCallback((category) => {
+    setSelectedCategories((prevSelected) => {
       const normalizedCategory = category.trim().toLowerCase();
-      const normalizedSelected = prevSelected.map(c => c.trim().toLowerCase());
+      const isAlreadySelected = prevSelected.includes(normalizedCategory);
 
-      if (normalizedSelected.includes(normalizedCategory)) {
-        return prevSelected.filter(c => c.trim().toLowerCase() !== normalizedCategory);
-      } else {
-        return [...prevSelected, category.trim().toLowerCase()]; // Store normalized category
-      }
+      return isAlreadySelected
+        ? prevSelected.filter(c => c !== normalizedCategory)
+        : [...prevSelected, normalizedCategory];
     });
-  };
+  }, []);
+
   const heroPost = allPosts[0];
 
   const filteredPosts = useMemo(() => {
-    // Exclude the hero post before filtering
     const postsToFilter = selectedCategories.length === 0 ? allPosts.slice(1) : allPosts;
 
     if (selectedCategories.length === 0) return postsToFilter;
@@ -77,22 +75,25 @@ export default function Index({ allPosts }: Props) {
             </>
           )}
           <div className="mb-4 flex flex-wrap gap-2">
-            {allCategories.map((category) => (
-              <button
-                key={category}
-                onClick={() => toggleCategory(category)}
-                className={`px-4 py-2 rounded-full text-sm font-medium transition-colors duration-300 ${selectedCategories.map(c => c.trim().toLowerCase()).includes(category)
-                  ? 'bg-green-600 text-white'
-                  : 'bg-gray-200 text-gray-800 hover:bg-gray-300'
-                  }`}
-              >
-                {category}
-              </button>
-            ))}
+            {allCategories.map((category) => {
+              const isSelected = selectedCategories.map(c => c.trim().toLowerCase()).includes(category);
+              return (
+                <button
+                  key={category}
+                  onClick={() => toggleCategory(category)}
+                  className={`px-4 py-2 rounded-full text-sm font-medium transition-colors duration-300 ${isSelected
+                    ? 'bg-light-accent text-white' // Active state
+                    : 'bg-gray-200 text-gray-800 hover:bg-gray-400' // Inactive state
+                    }`}
+                >
+                  {category}
+                </button>
+              );
+            })}
           </div>
           {morePosts.length > 0 && (
             <>
-              <h2 className="text-4xl mb-4 font-bold">More Stories</h2>
+              <h2 className="text-4xl mb-4 font-bold">More Posts</h2>
               <MoreStories posts={morePosts} />
             </>
           )}

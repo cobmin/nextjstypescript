@@ -11,12 +11,12 @@ type Props = {
   imageUrl?: string;
 };
 
-const Layout = ({ preview, children, title, description, imageUrl }: Props) => {
+const Layout = ({ children, title, description, imageUrl }: Props) => {
   return (
     <>
       <Meta title={title} description={description} imageUrl={imageUrl} />
-      <div className="min-h-screen bg-light-primary dark:bg-dark-primary text-light-text dark:text-dark-text">
-        <Alert preview={preview} />
+      <div className="min-h-screen bg-light-secondary dark:bg-dark-secondary text-light-text dark:text-dark-text pb-4">
+        <Alert />
         <Navbar />
         <main>{children}</main>
       </div>

@@ -19,36 +19,39 @@ const PostPreview = ({
   title,
   coverImage,
   date,
-  excerpt,
   author,
   slug,
   categories,
 }: Props) => {
   return (
-    <div className="bg-light-accent dark:bg-dark-accent text-light-text dark:text-dark-text rounded-lg p-5 mb-4">
-      <CoverImage slug={slug} title={title} src={coverImage} />
-      <h3 className="text-3xl mb-3 leading-snug">
+    <div className="flex flex-col bg-light-secondary dark:bg-dark-secondary text-light-text dark:text-dark-text rounded-lg border border-gray-200 dark:border-gray-600 shadow-sm p-4 mb-4 transition duration-300 hover:shadow-md h-full">
+      <div className="aspect-w-16 aspect-h-9 w-full overflow-hidden rounded-lg">
+        <Link aria-label={title} as={`/posts/${slug}`} href="/posts/[slug]">
+          <CoverImage slug={slug} title={title} src={coverImage} />
+        </Link>
+      </div>
+      <h3 className="text-2xl mt-4 leading-snug">
         <Link as={`/posts/${slug}`} href="/posts/[slug]">
           {title}
         </Link>
       </h3>
-      <div className="flex justify-between items-center">
-        <DateFormatter dateString={date} />
-        <div className="flex flex-wrap">
-          <div>
+      <div className="mt-auto">
+        <div className="flex justify-between items-center">
+          <div className="flex items-center">
             <Avatar name={author.name} picture={author.picture} />
           </div>
+          <div className="flex justify-end">
+            <CategoryTags categories={categories} />
+          </div>
+        </div>
+        <div className="text-xs mt-2">
+          <DateFormatter dateString={date} />
         </div>
       </div>
-      <div className="text-lg leading-relaxed mb-2">
-        <Link as={`/posts/${slug}`} href="/posts/[slug]">
-          {excerpt}
-        </Link>
-      </div>
-      <CategoryTags categories={categories} />
     </div>
   );
 };
 
 export default PostPreview;
+
 

@@ -19,51 +19,38 @@ const HeroPost = ({
   title,
   coverImage,
   date,
-  excerpt,
   author,
   slug,
-  categories = [] // Set a default empty array
+  categories = []
 }: Props) => {
   return (
-    <section className="bg-light-accent dark:bg-dark-accent text-light-text dark:text-dark-text rounded-lg p-5 mb-6">
-      <div className="mb-2a md:mb-4">
+    <section className="flex flex-col bg-light-secondary dark:bg-dark-secondary text-light-text dark:text-dark-text rounded-lg border border-gray-200 dark:border-gray-600 shadow-sm p-5 mb-6 transition duration-300 hover:shadow-md h-full">
+      <div className="aspect-w-16 aspect-h-9 w-full overflow-hidden rounded-lg">
         <CoverImage title={title} src={coverImage} slug={slug} />
       </div>
-      <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8">
-        <div>
-          <h3 className="text-3xl lg:text-4xl leading-tight">
-            <Link
-              as={`/posts/${slug}`}
-              href="/posts/[slug]"
-            >
-              {title}
-            </Link>
-          </h3>
-          <div className="flex flex-row text-lg items-center">
-            <div>
-              <Link
-                as={`/posts/${slug}`}
-                href="/posts/[slug]"
-              >
-                {<DateFormatter dateString={date} />}
-              </Link>
-            </div>
-            <div className='ml-auto'>
-              <Avatar name={author.name} picture={author.picture} />
-            </div>
+      <div className="flex-grow">
+        <h3 className="text-3xl lg:text-4xl leading-tight my-4">
+          <Link as={`/posts/${slug}`} href="/posts/[slug]" passHref>
+            <span className="hover:underline cursor-pointer">{title}</span>
+          </Link>
+        </h3>
+      </div>
+      <div className="mt-auto">
+        <div className="flex justify-between items-center">
+          <div className="flex items-center">
+            <Avatar name={author.name} picture={author.picture} />
+          </div>
+          <div className="flex justify-end">
+            <CategoryTags categories={categories} />
           </div>
         </div>
-        <div className='mb-2'>
-          <Link
-            as={`/posts/${slug}`}
-            href="/posts/[slug]"><p className="text-lg leading-relaxed">{excerpt}</p></Link>
-        </div>
-        <div>
-          <CategoryTags categories={categories} />
+        <div className="text-xs mt-2">
+          <DateFormatter dateString={date} />
         </div>
       </div>
     </section>
   )
 }
 
-export default HeroPost
+export default HeroPost;
+

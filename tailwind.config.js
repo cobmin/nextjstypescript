@@ -5,16 +5,24 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'light-primary': '#F0F4F8',
-        'light-secondary': '#D9EAD3',
-        'light-text': '#1D1D1D',
-        'light-accent': '#82B366',
-        'dark-primary': '#1E1E1E',
-        'dark-secondary': '#2F4F2F',
-        'dark-text': '#E0E0E0',
-        'dark-accent': '#67A86B',
-        'link': '#60A5FA',
-        'link-hover': '#93C5FD',
+        // Light theme colors inspired by common design patterns
+        'light-primary': '#FFFFFF', // White background
+        'light-secondary': '#F6F8FA', // Light grey for secondary elements
+        'light-text': '#24292E', // Dark grey text for contrast
+        'light-accent': '#21a238',
+
+        // Dark theme colors inspired by GitHub's dark mode
+        'dark-primary': '#0D1117', // Very dark grey (almost black) background
+        'dark-secondary': '#161B22', // Slightly lighter grey for secondary elements
+        'dark-text': '#C9D1D9', // Light grey text for readability
+        'dark-accent': '#21a238',
+
+        // Additional colors
+        'link': '#0366D6', // Standard link color
+        'link-hover': '#58A6FF', // Link color on hover
+        'link-cat': '#28a745', // Standard link color
+        'link-cat-hover': '#34d058', // Link color on hover
+
         success: '#0070f3',
         cyan: '#79FFE1',
       },
