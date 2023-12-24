@@ -10,7 +10,7 @@ export default async function markdownToHtml(markdown: string) {
       maxDepth: 2,
       ordered: false,
       prefix: 'user-content-',
-      skip: 'Continue On|Final Thoughts|Get Started',
+      skip: 'Continue On|Final Thoughts|Get Started|Hello, Loopers!',
     })
     .use(html)
     .process(markdown)
