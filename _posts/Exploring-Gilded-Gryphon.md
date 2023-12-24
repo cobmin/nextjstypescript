@@ -1,6 +1,6 @@
 ---
 title: "Welcome to the Gilded Gryphon in Everloop Chronicles: A Hub of Adventure and Community!"
-excerpt: "None"
+excerpt: "Discover the enchantment of the Gilded Gryphon in Everloop Chronicles - a haven for adventurers and the heart of our community. Explore unique inn rooms, mysterious portals, and vibrant events. Join us at the Gilded Gryphon, where every journey is an epic tale waiting to unfold."
 coverImage: "/assets/blog/Exploring-Gilded-Gryphon/Exterior.png"
 date: "2023-12-24T07:41:00.000Z"
 author:
