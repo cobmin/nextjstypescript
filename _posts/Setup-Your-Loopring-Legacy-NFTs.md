@@ -11,6 +11,10 @@ ogImage:
 categories: ["loopring"]
 ---
 
+If the [Maize application](https://maizehelps.art/) brought you here, this means you have Legacy NFTs that are not associated to a collection. Easily fix this issue with the steps below. 👇
+
+---
+
 Prior to the ability to create multiple collections on Loopring, users were limited to one collection per wallet. Any NFTs created under this single collection are now considered to be legacy NFTs. If you have noticed NFTs in the Loopring ecosystem not displaying correctly, it may be because they are legacy NFTs that have not yet been associated with a new collection. Fortunately, there is a solution.
 ![](/assets/blog/Setup-Your-Loopring-Legacy-NFTs/LegacyCollections.jpg)
 
